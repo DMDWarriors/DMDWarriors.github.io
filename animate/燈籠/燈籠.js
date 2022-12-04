@@ -390,7 +390,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/燈籠_atlas_1.png?1670122742832", id:"燈籠_atlas_1"}
+		{src:"images/燈籠_atlas_1.png?1670123221185", id:"燈籠_atlas_1"}
 	],
 	preloads: []
 };
